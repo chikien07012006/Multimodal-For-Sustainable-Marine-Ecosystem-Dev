@@ -1,0 +1,7 @@
+data_dir: "/home/24kien.dhc/Multimodal-For_SusDev/data"
+image_dir: "/home/24kien.dhc/Multimodal-For_SusDev/data/CoralVQA_Image"
+lr: 0.0001
+epochs: 30
+batch_size: 32
+save_model_dir: "/home/24kien.dhc/Multimodal-For_SusDev/model/checkpoints"
+loss_png_dir: "/home/24kien.dhc/Multimodal-For_SusDev"

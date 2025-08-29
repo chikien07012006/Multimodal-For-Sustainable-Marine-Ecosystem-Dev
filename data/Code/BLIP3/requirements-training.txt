@@ -1,0 +1,5 @@
+torchvision==2.1.0
+braceexpand
+webdataset
+tqdm
+wandb
