@@ -1,8 +1,8 @@
 ## Multimodal-For_SusDev — Baseline VQA cho ảnh san hô (CoralVQA)
 
-### Highlights (con số chính)
+### Highlights 
 
-- **Dữ liệu chuẩn (theo paper/dataset card)**: **12,805 ảnh / 277,653 QA**
+- **Dữ liệu chuẩn **: **12,805 ảnh / 277,653 QA**
 - **Dữ liệu JSONL hiện có trong repo**:
   - **Train**: **226,726** QA pairs, **10,536** ảnh (unique)
   - **Test**: **27,984** QA pairs, **1,274** ảnh (unique)
